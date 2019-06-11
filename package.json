@@ -1,0 +1,24 @@
+{
+  "name": "regex-map",
+  "version": "0.0.1",
+  "description": "JavaScript implementation of Map based on Set and Array",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgorRepnikov/regex-map.git"
+  },
+  "keywords": [
+    "regexp",
+    "regex",
+    "regexp-map",
+    "map",
+    "array-map",
+    "table"
+  ],
+  "author": "Egor Repnikov <egorepnikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EgorRepnikov/regex-map/issues"
+  },
+  "homepage": "https://github.com/EgorRepnikov/regex-map#readme"
+}
