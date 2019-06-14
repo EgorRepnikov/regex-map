@@ -1,13 +1,15 @@
 {
-  "name": "regex-map",
+  "name": "regular-expression-map",
   "version": "0.0.1",
   "description": "JavaScript implementation of Map based on Set and Array",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EgorRepnikov/regex-map.git"
+    "url": "git+https://github.com/EgorRepnikov/regular-expression-map.git"
   },
   "keywords": [
+    "regular",
+    "expression",
     "regexp",
     "regex",
     "regexp-map",
@@ -18,7 +20,7 @@
   "author": "Egor Repnikov <egorepnikov@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EgorRepnikov/regex-map/issues"
+    "url": "https://github.com/EgorRepnikov/regular-expression-map/issues"
   },
-  "homepage": "https://github.com/EgorRepnikov/regex-map#readme"
+  "homepage": "https://github.com/EgorRepnikov/regular-expression-map#readme"
 }
